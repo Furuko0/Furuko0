@@ -1,4 +1,3 @@
-````md
 <p align="center">
   <img src="./assets/furuko-banner.png" width="100%" alt="Furuko Game Developer Banner" />
 </p>
@@ -31,7 +30,7 @@ while (alive)
     Playtest();
     Improve();
 }
-````
+```
 
 ---
 
@@ -39,13 +38,13 @@ while (alive)
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=unity,cs,git,github,vscode&perline=5" />
+<img src="https://skillicons.dev/icons?i=unity,cs,git,github,vscode&perline=5" alt="Unity, C#, Git, GitHub, VS Code" />
 
 </div>
 
 <br>
 
-|                   |                                                    |
+| CATEGORY          | LOADOUT                                            |
 | ----------------- | -------------------------------------------------- |
 | 🎮 **Engine**     | Unity                                              |
 | ⚔️ **Main Focus** | Gameplay & Core Mechanics                          |
@@ -79,7 +78,7 @@ I'm currently focused on **finishing and polishing my current game**.
 
 This project is where I experiment, learn, break systems, rebuild them, and improve the overall gameplay experience.
 
-**Built with**
+### Built With
 
 `Unity` • `C#` • `Mirror`
 
@@ -105,9 +104,9 @@ ARCHITECTURE       ████████░░░░░░░░░░░░ 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Furuko0&show_icons=true&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Furuko0&show_icons=true&hide_border=true&theme=transparent" alt="Furuko0 GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furuko0&layout=compact&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furuko0&layout=compact&hide_border=true&theme=transparent" alt="Furuko0 Top Languages" />
 
 </div>
 
@@ -117,7 +116,7 @@ ARCHITECTURE       ████████░░░░░░░░░░░░ 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Furuko0&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=Furuko0&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Furuko0 GitHub Trophies" />
 
 </div>
 
@@ -145,7 +144,7 @@ ARCHITECTURE       ████████░░░░░░░░░░░░ 
 
 **Game Development • Unity • C#**
 
-[GitHub](https://github.com/Furuko0)
+[GitHub Profile](https://github.com/Furuko0)
 
 <br>
 
@@ -154,4 +153,3 @@ ARCHITECTURE       ████████░░░░░░░░░░░░ 
 ### ᚱ KEEP BUILDING • KEEP PUSHING • KEEP IMPROVING ᚱ
 
 </div>
-```
