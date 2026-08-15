@@ -4,13 +4,15 @@
 
 <div align="center">
 
-# ᚠ FURUKO
+# ᚠ F U R U K O ᚠ
 
-### GAME DEVELOPER
+### ⚔ GAME DEVELOPER ⚔
 
 `GAMEPLAY` • `CORE MECHANICS` • `UNITY` • `C#`
 
-### SIC • PARVIS • MAGNA
+### ᛟ SIC • PARVIS • MAGNA ᛟ
+
+<sub>Greatness from small beginnings.</sub>
 
 </div>
 
@@ -18,9 +20,11 @@
 
 ## ᚱ THE DEVELOPER
 
-I'm a **Game Developer** focused on designing gameplay systems and building the core mechanics that make games fun.
+I'm a **Game Developer** focused on designing gameplay systems and building the core mechanics that make games feel good to play.
 
-I mainly work with **Unity** and **C#**, creating different kinds of games while constantly improving my understanding of gameplay, architecture, and game design.
+I mainly work with **Unity** and **C#**, creating and experimenting with different kinds of games.
+
+My goal isn't to stick to one genre — I want to build different experiences, understand what makes them fun, and improve with every project.
 
 ```csharp
 while (alive)
@@ -28,6 +32,7 @@ while (alive)
     Design();
     Build();
     Playtest();
+    Learn();
     Improve();
 }
 ```
@@ -38,19 +43,19 @@ while (alive)
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=unity,cs,git,github,vscode&perline=5" alt="Unity, C#, Git, GitHub, VS Code" />
+<img src="https://skillicons.dev/icons?i=unity,cs,git,github,vscode&perline=5" alt="Unity C# Git GitHub VS Code" />
 
 </div>
 
 <br>
 
 | CATEGORY          | LOADOUT                                            |
-| ----------------- | -------------------------------------------------- |
+| :---------------- | :------------------------------------------------- |
 | 🎮 **Engine**     | Unity                                              |
 | ⚔️ **Main Focus** | Gameplay & Core Mechanics                          |
 | 💻 **Language**   | C#                                                 |
 | 🔧 **Tools**      | Git • GitHub • VS Code                             |
-| 🧠 **Learning**   | Game Architecture • Game Design • Better Workflows |
+| 🧠 **Exploring**  | Game Architecture • Game Design • Better Workflows |
 
 ---
 
@@ -58,27 +63,35 @@ while (alive)
 
 <div align="center">
 
-### GAMEPLAY DESIGN • CORE MECHANICS • CAMERA SYSTEMS
+### 🎯 GAMEPLAY DESIGN
 
-### GAME ARCHITECTURE • GAME DESIGN • TOOLS & WORKFLOW
+### ⚒ CORE MECHANICS
+
+### 🎥 CAMERA SYSTEMS
+
+### 🏛 GAME ARCHITECTURE
+
+### 🎮 GAME DESIGN
+
+### 🔧 TOOLS & WORKFLOW
 
 </div>
 
-> Every project is another step toward becoming a better game developer.
+> Every project is another step forward.
 
 ---
 
 ## 🗡 CURRENT JOURNEY
 
-### CURRENT GAME PROJECT
+### 🎮 CURRENT GAME PROJECT
 
-`STATUS: IN DEVELOPMENT`
+`⚒ IN DEVELOPMENT`
 
 I'm currently focused on **finishing and polishing my current game**.
 
-This project is where I experiment, learn, break systems, rebuild them, and improve the overall gameplay experience.
+This project has become my main learning ground — a place where I design mechanics, test ideas, break systems, rebuild them, and improve the overall gameplay experience.
 
-### Built With
+### ⚙ BUILT WITH
 
 `Unity` • `C#` • `Mirror`
 
@@ -87,36 +100,72 @@ This project is where I experiment, learn, break systems, rebuild them, and impr
 ## 🎯 QUEST OBJECTIVES
 
 ```text
-CORE GAMEPLAY      ████████████████░░░░  80%
+CORE GAMEPLAY
 
-CAMERA SYSTEMS     ███████████████░░░░░  75%
+████████████████░░░░  80%
 
-NETWORKING         ████████░░░░░░░░░░░░  40%
 
-SYNCHRONIZATION    ████████░░░░░░░░░░░░  40%
+CAMERA SYSTEMS
 
-ARCHITECTURE       ████████░░░░░░░░░░░░  40%
+███████████████░░░░░  75%
+
+
+NETWORKING
+
+████████░░░░░░░░░░░░  40%
+
+
+SYNCHRONIZATION
+
+████████░░░░░░░░░░░░  40%
+
+
+ARCHITECTURE
+
+████████░░░░░░░░░░░░  40%
 ```
 
 ---
 
-## 📜 PLAYER STATS
+## 🧠 WHAT THIS PROJECT TAUGHT ME
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Furuko0&show_icons=true&hide_border=true&theme=transparent" alt="Furuko0 GitHub Stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furuko0&layout=compact&hide_border=true&theme=transparent" alt="Furuko0 Top Languages" />
-
-</div>
+* Designing gameplay before over-engineering systems
+* Building mechanics around player experience
+* Working with multiplayer synchronization
+* Structuring larger Unity projects
+* Debugging systems that interact with each other
+* Turning prototypes into actual game systems
 
 ---
 
-## 🏆 ACHIEVEMENTS
+## ⚙ FEATURED SYSTEMS
+
+* Third Person Controller
+* Advanced Camera System
+* Combat & Weapon Systems
+* Multiplayer Synchronization
+* Animation & Locomotion
+* UI / HUD Systems
+
+---
+
+## 🖼 GALLERY
+
+<p align="center">
+
+  <img src="./assets/gameplay-1.png" width="30%" alt="Gameplay Screenshot 1" />
+  <img src="./assets/gameplay-2.png" width="30%" alt="Gameplay Screenshot 2" />
+  <img src="./assets/gameplay-3.png" width="30%" alt="Gameplay Screenshot 3" />
+
+</p>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Furuko0&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Furuko0 GitHub Trophies" />
+<sub>Screenshots from the current project.</sub>
+
+<br>
+
+<sub>More coming soon.</sub>
 
 </div>
 
@@ -124,32 +173,69 @@ ARCHITECTURE       ████████░░░░░░░░░░░░ 
 
 ## ᚠ NEXT JOURNEY
 
-```text
-> Finish and polish my current game
+My current goal is simple:
 
-> Take everything I've learned from this project
-  into my next game
+### ⚔ Finish the game I'm building now.
 
-> Build my next project with more professional
-  architecture, systems, and workflows
+After that, I'll take everything I've learned from this project into my next game.
 
-> Improve with every game I create
-```
+For the next project, I want to approach development with:
 
----
-
-<div align="center">
-
-## ⚔ LET'S CONNECT
-
-**Game Development • Unity • C#**
-
-[GitHub Profile](https://github.com/Furuko0)
+* Better project architecture
+* Cleaner and more scalable systems
+* Better planning before implementation
+* More reusable gameplay systems
+* A stronger development workflow
+* More polished gameplay from the beginning
 
 <br>
 
-### SIC • PARVIS • MAGNA
+<div align="center">
 
-### ᚱ KEEP BUILDING • KEEP PUSHING • KEEP IMPROVING ᚱ
+### The goal isn't just to make another game.
+
+## The goal is to make the next one better.
+
+</div>
+
+---
+
+## ⚔ PROJECTS
+
+### CURRENT GAME
+
+`IN DEVELOPMENT`
+
+A Unity game focused on gameplay systems, core mechanics, camera systems, and multiplayer functionality.
+
+**Tech**
+
+`Unity` • `C#` • `Mirror`
+
+> More information will be added as development progresses.
+
+---
+
+## 📡 ESTABLISH CONNECTION
+
+<div align="center">
+
+### ⚔ GAME DEVELOPMENT • UNITY • C#
+
+Interested in game development or just want to see what I'm building?
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Furuko0-181717?style=for-the-badge\&logo=github)](https://github.com/Furuko0)
+
+<br><br>
+
+### ᛟ SIC • PARVIS • MAGNA ᛟ
+
+<sub>Greatness from small beginnings.</sub>
+
+<br><br>
+
+### ᚱ KEEP BUILDING • KEEP LEARNING • KEEP IMPROVING ᚱ
 
 </div>
