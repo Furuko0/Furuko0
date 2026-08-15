@@ -11,7 +11,7 @@
 
 `GAMEPLAY` • `CORE MECHANICS` • `UNITY` • `C#`
 
-*"Every mechanic is a piece. Every system is a weapon. Every game is a world."*
+### SIC • PARVIS • MAGNA
 
 </div>
 
@@ -149,7 +149,7 @@ ARCHITECTURE       ████████░░░░░░░░░░░░ 
 
 <br>
 
-*"SIC·PARVIS·MAGNA"*
+### SIC • PARVIS • MAGNA
 
 ### ᚱ KEEP BUILDING • KEEP PUSHING • KEEP IMPROVING ᚱ
 
